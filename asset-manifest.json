@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0074ec69.css",
+    "main.js": "/static/js/main.5ba9b932.js",
+    "static/media/realestateimg.png": "/static/media/realestateimg.9866364be3adf3d7e4df.png",
+    "static/media/shrisatyaitimg.png": "/static/media/shrisatyaitimg.aee87780d082c630c8ca.png",
+    "static/media/canva.png": "/static/media/canva.55bd0fd220cc083a1318.png",
+    "index.html": "/index.html",
+    "main.0074ec69.css.map": "/static/css/main.0074ec69.css.map",
+    "main.5ba9b932.js.map": "/static/js/main.5ba9b932.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0074ec69.css",
+    "static/js/main.5ba9b932.js"
+  ]
+}
